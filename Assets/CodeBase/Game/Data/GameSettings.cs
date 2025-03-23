@@ -7,5 +7,7 @@ namespace CodeBase.Game.Data
     {
         [field: SerializeField] public int MinLevelInclusive { get; private set; }
         [field: SerializeField] public int MaxLevelInclusive { get; private set; }
+        [field: SerializeField] public string LevelNumberText { get; private set; }
+        [field: SerializeField] public string Separator { get; private set; }
     }
 }

@@ -53,7 +53,6 @@ namespace CodeBase.Game.MVP.Presenters
         private void LevelUpButtonHandler()
         {
             _windowFsm.OpenWindow(typeof(LevelUp), false);
-            Debug.Log("Clicked");
         }
     }
 }

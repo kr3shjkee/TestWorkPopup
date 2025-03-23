@@ -1,15 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="88928e26-3d1a-49e4-8529-95738ca91430" name="Default Changelist" comment="" />
+    <list default="true" id="88928e26-3d1a-49e4-8529-95738ca91430" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestWorkPopup/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestWorkPopup/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestWorkPopup/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestWorkPopup/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestWorkPopup/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestWorkPopup/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CodeBase/Game/Data/GameSettings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CodeBase/Game/Data/GameSettings.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CodeBase/Game/MVP/Presenters/LevelUpPresenter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CodeBase/Game/MVP/Presenters/LevelUpPresenter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CodeBase/Game/MVP/Presenters/MainUiPresenter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CodeBase/Game/MVP/Presenters/MainUiPresenter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CodeBase/Game/MVP/Views/LevelUpView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CodeBase/Game/MVP/Views/LevelUpView.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fonts/RobotoCondensed-Regular SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Fonts/RobotoCondensed-Regular SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Windows/Level Up Canvas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Windows/Level Up Canvas.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Windows/Main UI Canvas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Windows/Main UI Canvas.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/CodeBase/Game/Installers/MainSceneMonoInstaller.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CodeBase/Core/Installers/ProjectMonoInstaller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.shadergraph@14.0.12/Editor/Data/Graphs/SerializableTexture.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BA3D358D-287F-4E0D-BDA0-BD9ABDC50542/ac/a678a111/ParticleSystem.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/5A41D6B7-1898-42EC-A409-FD0B1C3E3DCF/0/System.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -24,8 +47,6 @@
         <option value="$PROJECT_DIR$/Assets/CodeBase/Core/WindowsFSM/IWindowResolve.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/Core/WindowsFSM/Window.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/Core/WindowsFSM/WindowFsm.cs" />
-        <option value="$PROJECT_DIR$/Assets/CodeBase/Game/MVP/Views/LevelUpView.cs" />
-        <option value="$PROJECT_DIR$/Assets/CodeBase/Game/Data/GameSettings.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/Core/Compositions/SceneCompositionRoot.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/Core/Extensions/ContainerExtensions.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/Game/Composition/CompositionRoot.cs" />
@@ -37,12 +58,17 @@
         <option value="$PROJECT_DIR$/Assets/CodeBase/Game/Windows/LevelUp.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/Game/GameManager.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/Game/MVP/Views/MainUiView.cs" />
+        <option value="$PROJECT_DIR$/Assets/com.unity.uiextensions/Runtime/Scripts/Effects/ShaderEffects/GradientThreeColors.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/Game/MVP/Presenters/MainUiPresenter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/JMO Assets/Welcome Screen/CFXR_WelcomeScreen.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Game/Data/GameSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Game/MVP/Views/LevelUpView.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/Game/MVP/Presenters/LevelUpPresenter.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="2udBx4AXzy9DzYz6tQ2Mwf8jsZ7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -81,7 +107,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742568816497</updated>
-      <workItem from="1742568870436" duration="5740000" />
+      <workItem from="1742568870436" duration="6217000" />
+      <workItem from="1742652694961" duration="4674000" />
+      <workItem from="1742729832658" duration="962000" />
     </task>
     <servers />
   </component>
@@ -90,6 +118,18 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>

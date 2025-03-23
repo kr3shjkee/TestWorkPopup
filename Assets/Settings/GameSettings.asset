@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   <MinLevelInclusive>k__BackingField: 1
   <MaxLevelInclusive>k__BackingField: 10
+  <LevelNumberText>k__BackingField: '- LEVEL _n -'
+  <Separator>k__BackingField: _n
