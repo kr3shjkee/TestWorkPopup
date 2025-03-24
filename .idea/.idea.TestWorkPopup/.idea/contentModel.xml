@@ -36,6 +36,10 @@
             </e>
           </e>
           <e p="Game" t="Include">
+            <e p="Animations" t="Include">
+              <e p="FadeAnimation.cs" t="Include" />
+              <e p="MoveAnimation.cs" t="Include" />
+            </e>
             <e p="Composition" t="Include">
               <e p="CompositionRoot.cs" t="Include" />
             </e>
@@ -498,88 +502,6 @@
                 <e p="DOTweenModuleUtils.cs" t="Include" />
               </e>
               <e p="ReadMe.txt" t="Include" />
-            </e>
-          </e>
-          <e p="JMO Assets" t="Include">
-            <e p="Cartoon FX (legacy)" t="Include">
-              <e p="CartoonFX Free.txt" t="Include" />
-              <e p="Demo" t="Include">
-                <e p="Assets" t="Include">
-                  <e p="CFX_AutoStopLoopedEffect.cs" t="Include" />
-                  <e p="CFX_Demo_New.cs" t="Include" />
-                  <e p="CFX_Demo_RandomDir.cs" t="Include" />
-                  <e p="CFX_Demo_RandomDirectionTranslate.cs" t="Include" />
-                  <e p="CFX_Demo_RotateCamera.cs" t="Include" />
-                  <e p="CFX_Demo_Translate.cs" t="Include" />
-                </e>
-              </e>
-              <e p="Scripts" t="Include">
-                <e p="CFX_AutoDestructShuriken.cs" t="Include" />
-                <e p="CFX_AutoRotate.cs" t="Include" />
-                <e p="CFX_LightFlicker.cs" t="Include" />
-                <e p="CFX_LightIntensityFade.cs" t="Include" />
-              </e>
-              <e p="Shaders" t="Include">
-                <e p="CFX3 Multiply Color.shader" t="Include" />
-                <e p="CFXM_MobileParticleAdd_Alpha8.shader" t="Include" />
-              </e>
-            </e>
-            <e p="Cartoon FX Remaster" t="Include">
-              <e p="CFXR Assets" t="Include">
-                <e p="Editor" t="Include">
-                  <e p="CFXR Editor.asmdef" t="Include" />
-                  <e p="CFXR_ExpressionParser.cs" t="Include" />
-                  <e p="CFXR_MaterialInspector.cs" t="Include" />
-                  <e p="CFXR_ShaderImporter.cs" t="Include" />
-                  <e p="CFXR_ShaderPostProcessor.cs" t="Include" />
-                  <e p="CFXR_Styles.cs" t="Include" />
-                </e>
-                <e p="Scripts" t="Include">
-                  <e p="CFXR Runtime.asmdef" t="Include" />
-                  <e p="CFXR_Effect.CameraShake.cs" t="Include" />
-                  <e p="CFXR_Effect.cs" t="Include" />
-                  <e p="CFXR_EmissionBySurface.cs" t="Include" />
-                  <e p="CFXR_ParticleText.cs" t="Include" />
-                  <e p="CFXR_ParticleTextFontAsset.cs" t="Include" />
-                </e>
-                <e p="Shaders" t="Include">
-                  <e p="CFXR.cginc" t="Include" />
-                  <e p="CFXR_PASSES.cginc" t="Include" />
-                  <e p="CFXR_SETTINGS.cginc" t="Include" />
-                  <e p="CFXR_URP.cginc" t="Include" />
-                </e>
-              </e>
-              <e p="CFXR Prefabs" t="Include">
-                <e p="Texts" t="Include">
-                  <e p="_Make your own text effect.txt" t="Include" />
-                </e>
-              </e>
-              <e p="Demo Assets" t="Include">
-                <e p="CFXR Demo.asmdef" t="Include" />
-                <e p="CFXR_Demo.cs" t="Include" />
-                <e p="CFXR_Demo_Rotate.cs" t="Include" />
-                <e p="CFXR_Demo_Translate.cs" t="Include" />
-                <e p="Kino Bloom" t="Include">
-                  <e p="Bloom.cs" t="Include" />
-                  <e p="Editor" t="Include">
-                    <e p="BloomEditor.cs" t="Include" />
-                    <e p="BloomGraphDrawer.cs" t="Include" />
-                    <e p="KinoBloom.Editor.asmdef" t="Include" />
-                  </e>
-                  <e p="Kino Bloom License.txt" t="Include" />
-                  <e p="KinoBloom.Runtime.asmdef" t="Include" />
-                  <e p="Shader" t="Include">
-                    <e p="Bloom.cginc" t="Include" />
-                    <e p="Bloom.shader" t="Include" />
-                  </e>
-                </e>
-              </e>
-            </e>
-            <e p="Welcome Screen" t="Include">
-              <e p="CFXR.WelcomeScreen.asmdef" t="Include" />
-              <e p="CFXR_WelcomeScreen.cs" t="Include" />
-              <e p="CFXR_WelcomeScreen.uss" t="Include" />
-              <e p="CFXR_WelcomeScreen.uxml" t="Include" />
             </e>
           </e>
           <e p="Zenject" t="Include">
@@ -1438,16 +1360,10 @@
           </e>
         </e>
       </e>
-      <e p="CFXR.WelcomeScreen.csproj" t="IncludeRecursive" />
-      <e p="CFXRDemo.csproj" t="IncludeRecursive" />
-      <e p="CFXREditor.csproj" t="IncludeRecursive" />
-      <e p="CFXRRuntime.csproj" t="IncludeRecursive" />
-      <e p="KinoBloom.Runtime.csproj" t="IncludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
       <e p="Temp\Bin" t="ExcludeRecursive" />
       <e p="TestWorkPopup.sln" t="IncludeFlat" />
-      <e p="ToonyColorsPro.Demo.Editor.csproj" t="IncludeRecursive" />
       <e p="Zenject-Editor.csproj" t="IncludeRecursive" />
       <e p="Zenject-IntegrationTests-Editor.csproj" t="IncludeRecursive" />
       <e p="Zenject-IntegrationTests.csproj" t="IncludeRecursive" />

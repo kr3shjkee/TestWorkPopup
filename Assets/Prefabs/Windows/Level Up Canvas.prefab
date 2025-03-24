@@ -1427,6 +1427,7 @@ GameObject:
   - component: {fileID: 1070183293094053422}
   - component: {fileID: 1677498442822638115}
   - component: {fileID: 8449380807692640035}
+  - component: {fileID: 3618325587283277921}
   m_Layer: 5
   m_Name: Popup
   m_TagString: Untagged
@@ -1495,6 +1496,20 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1.5
+--- !u!114 &3618325587283277921
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6167375996589278855}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67e2cef53545489d8679c67518df9558, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _duration: 1
+  _transform: {fileID: 1070183293094053422}
 --- !u!1 &6198808414832465436
 GameObject:
   m_ObjectHideFlags: 0
@@ -1661,6 +1676,7 @@ GameObject:
   - component: {fileID: 4049745139658762834}
   - component: {fileID: 1382490778346572759}
   - component: {fileID: 6927416483345952250}
+  - component: {fileID: 193973257892586337}
   m_Layer: 5
   m_Name: Fog Background Image
   m_TagString: Untagged
@@ -1725,6 +1741,20 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 20
+--- !u!114 &193973257892586337
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7277534953169057819}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7abfed028ff144318ae2fc9b6694f89b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _duration: 0.5
+  _image: {fileID: 6927416483345952250}
 --- !u!1 &7292936122629076120
 GameObject:
   m_ObjectHideFlags: 0
@@ -1924,6 +1954,10 @@ MonoBehaviour:
   <GetButton>k__BackingField: {fileID: 5308883282937539676}
   <ClaimButton>k__BackingField: {fileID: 4556001956478269172}
   <LevelNumberText>k__BackingField: {fileID: 3812219262094453986}
+  <Popup>k__BackingField: {fileID: 1070183293094053422}
+  <MoveAnimation>k__BackingField: {fileID: 3618325587283277921}
+  <FogImage>k__BackingField: {fileID: 6927416483345952250}
+  <FadeAnimation>k__BackingField: {fileID: 193973257892586337}
   <StarsParticle>k__BackingField: {fileID: 7644287996642242838}
   <RaysParticle>k__BackingField: {fileID: 7382527276163272555}
 --- !u!1001 &4987306818707575373

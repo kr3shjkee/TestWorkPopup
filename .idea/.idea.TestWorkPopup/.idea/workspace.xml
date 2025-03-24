@@ -6,19 +6,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88928e26-3d1a-49e4-8529-95738ca91430" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/CodeBase/Game/Animations.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/CodeBase/Game/Animations/FadeAnimation.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/CodeBase/Game/Animations/FadeAnimation.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/CodeBase/Game/Animations/MoveAnimation.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/CodeBase/Game/Animations/MoveAnimation.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TestWorkPopup/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestWorkPopup/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TestWorkPopup/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestWorkPopup/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TestWorkPopup/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestWorkPopup/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CodeBase/Game/Data/GameSettings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CodeBase/Game/Data/GameSettings.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/CodeBase/Game/MVP/Presenters/LevelUpPresenter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CodeBase/Game/MVP/Presenters/LevelUpPresenter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CodeBase/Game/MVP/Presenters/MainUiPresenter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CodeBase/Game/MVP/Presenters/MainUiPresenter.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/CodeBase/Game/MVP/Views/LevelUpView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CodeBase/Game/MVP/Views/LevelUpView.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Fonts/RobotoCondensed-Regular SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Fonts/RobotoCondensed-Regular SDF.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Windows/Level Up Canvas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Windows/Level Up Canvas.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Windows/Main UI Canvas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Windows/Main UI Canvas.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +61,9 @@
         <option value="$PROJECT_DIR$/Assets/CodeBase/Game/MVP/Presenters/MainUiPresenter.cs" />
         <option value="$PROJECT_DIR$/Assets/Plugins/JMO Assets/Welcome Screen/CFXR_WelcomeScreen.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/Game/Data/GameSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Game/Animations/FillAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Game/Animations/MoveAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Game/Animations/FadeAnimation.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/Game/MVP/Views/LevelUpView.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/Game/MVP/Presenters/LevelUpPresenter.cs" />
       </list>
@@ -109,7 +111,8 @@
       <updated>1742568816497</updated>
       <workItem from="1742568870436" duration="6217000" />
       <workItem from="1742652694961" duration="4674000" />
-      <workItem from="1742729832658" duration="962000" />
+      <workItem from="1742729832658" duration="1438000" />
+      <workItem from="1742804387095" duration="1447000" />
     </task>
     <servers />
   </component>
